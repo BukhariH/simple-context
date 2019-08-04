@@ -1,15 +1,15 @@
 # Simple Context
 
-This application serves as a *teaching tool* to demystify Java Annotations & Spring to interns & developers who come from a non-Java background.
+This application serves as a **teaching tool** to demystify Java Annotations & Spring to interns & developers who come from a non-Java background.
 
 The usual split I follow:
 
-- *40 mins* - Pair program to re-create this app from scratch
+- ***40 mins*** - Pair program to re-create this app from scratch
     - Explain Inversion of Control principle
     - Explain Singleton design pattern
     - Explain different ways of autowiring beans
     - Explain different types of Stereotypes e.g. @Component vs @Service
-- *20 mins* - Discussing additional topics such as:
+- ***20 mins*** - Discussing additional topics such as:
     - Contrast our implementation vs Spring Context's implementation 
     - Explain & discuss Dependency Cycles
     - Implement Spring Web Annotations
